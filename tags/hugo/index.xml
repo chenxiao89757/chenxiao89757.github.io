@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Claridade</title>
+    <link>https://chenxiao89757.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Claridade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2024–2024</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 16:15:00 +0800</lastBuildDate><atom:link href="https://chenxiao89757.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Hugo快速创建个人博客</title>
+      <link>https://chenxiao89757.github.io/post/2024/00001/</link>
+      <pubDate>Thu, 22 Aug 2024 16:15:00 +0800</pubDate>
+      
+      <guid>https://chenxiao89757.github.io/post/2024/00001/</guid>
+      <description>
+        
+          
+            准备工作 1、下载Hugo解压到本地，并将目录加入环境变量
+2、下载Hugo主题clarity包
+1#新建项目 2hugo new site my_blog 3#将主题包放入项目主题文件夹中 4cp clarity themes/ 5#用主题包中exampleSite的内容覆盖到项目根目录 6cp themes/hugo-clarity/exampleSite ./ 7#启动项目 8hugo server -t hugo-clarity 此时就可以使用命令框最后的地址预览界面了
+过程中的坑 1、主题clarity包中有关于引入视频的示例，需要访问被墙的地址，导致一直启动报错，删除示例模块即可
+content/post/rich-content.md中{{}}的部分
+2、刚开始下载的其它主题包放入项目后，启动都报错，需要多找几个主题包试下
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Hugo page bundles</title>
+      <link>https://chenxiao89757.github.io/post/bundle/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenxiao89757.github.io/post/bundle/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
