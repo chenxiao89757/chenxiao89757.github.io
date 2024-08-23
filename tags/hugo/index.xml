@@ -29,21 +29,5 @@ content/post/rich-content.md中{{}}的部分
       </description>
     </item>
     
-    <item>
-      <title>Using Hugo page bundles</title>
-      <link>https://chenxiao89757.github.io/post/bundle/</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chenxiao89757.github.io/post/bundle/</guid>
-      <description>
-        
-          
-            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
-          
-          
-        
-      </description>
-    </item>
-    
   </channel>
 </rss>

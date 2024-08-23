@@ -38,22 +38,6 @@
                 href="https://chenxiao89757.github.io/categories/"
                 />
   </url><url>
-    <loc>https://chenxiao89757.github.io/tags/index/</loc>
-    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/</loc>
-    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/post/"
-                />
-  </url><url>
     <loc>https://chenxiao89757.github.io/tags/sql/</loc>
     <lastmod>2024-08-23T11:02:14+08:00</lastmod>
   </url><url>
@@ -93,117 +77,8 @@
     <loc>https://chenxiao89757.github.io/post/2024/00001/</loc>
     <lastmod>2024-08-22T16:15:00+08:00</lastmod>
   </url><url>
-    <loc>https://chenxiao89757.github.io/series/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://chenxiao89757.github.io/zh/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/series/"
-                />
-  </url><url>
-    <loc>https://chenxiao89757.github.io/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/series/themes-guide/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/bundle/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/map/</loc>
-    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/notices/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chenxiao89757.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/tags/css/"
-                />
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/featured/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/tags/html/"
-                />
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/post/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/post/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
@@ -219,5 +94,22 @@
                 />
   </url><url>
     <loc>https://chenxiao89757.github.io/search/</loc>
+  </url><url>
+    <loc>https://chenxiao89757.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chenxiao89757.github.io/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://chenxiao89757.github.io/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chenxiao89757.github.io/series/"
+                />
   </url>
 </urlset>
