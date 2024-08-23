@@ -19,23 +19,6 @@
                 href="https://chenxiao89757.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://chenxiao89757.github.io/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chenxiao89757.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://chenxiao89757.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://chenxiao89757.github.io/zh/"
-                />
-  </url><url>
     <loc>https://chenxiao89757.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -68,6 +51,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://chenxiao89757.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://chenxiao89757.github.io/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chenxiao89757.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://chenxiao89757.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chenxiao89757.github.io/zh/"
                 />
   </url>
 </urlset>
