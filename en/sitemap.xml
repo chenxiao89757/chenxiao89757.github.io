@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chenxiao89757.github.io/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -20,11 +20,8 @@
                 href="https://chenxiao89757.github.io/"
                 />
   </url><url>
-    <loc>https://chenxiao89757.github.io/post/2024/00002/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
-  </url><url>
     <loc>https://chenxiao89757.github.io/categories/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -42,10 +39,10 @@
                 />
   </url><url>
     <loc>https://chenxiao89757.github.io/tags/index/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/post/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -57,8 +54,14 @@
                 href="https://chenxiao89757.github.io/post/"
                 />
   </url><url>
+    <loc>https://chenxiao89757.github.io/tags/sql/</loc>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
+  </url><url>
+    <loc>https://chenxiao89757.github.io/post/2024/00003/</loc>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
+  </url><url>
     <loc>https://chenxiao89757.github.io/tags/</loc>
-    <lastmod>2024-08-22T18:41:14+08:00</lastmod>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -75,19 +78,19 @@
                 href="https://chenxiao89757.github.io/tags/"
                 />
   </url><url>
-    <loc>https://chenxiao89757.github.io/categories/%E5%85%B4%E8%B6%A3/</loc>
+    <loc>https://chenxiao89757.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-08-23T11:02:14+08:00</lastmod>
+  </url><url>
+    <loc>https://chenxiao89757.github.io/tags/linux/</loc>
     <lastmod>2024-08-22T18:41:14+08:00</lastmod>
   </url><url>
-    <loc>https://chenxiao89757.github.io/tags/%E7%85%A7%E7%89%87/</loc>
+    <loc>https://chenxiao89757.github.io/post/2024/00002/</loc>
     <lastmod>2024-08-22T18:41:14+08:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/tags/hugo/</loc>
     <lastmod>2024-08-22T16:15:00+08:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/post/2024/00001/</loc>
-    <lastmod>2024-08-22T16:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chenxiao89757.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-08-22T16:15:00+08:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/series/</loc>
