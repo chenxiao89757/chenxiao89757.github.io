@@ -77,11 +77,8 @@
     <loc>https://chenxiao89757.github.io/post/2024/00001/</loc>
     <lastmod>2024-08-22T16:15:00+08:00</lastmod>
   </url><url>
-    <loc>https://chenxiao89757.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chenxiao89757.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -92,6 +89,9 @@
                 hreflang="en"
                 href="https://chenxiao89757.github.io/about/"
                 />
+  </url><url>
+    <loc>https://chenxiao89757.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chenxiao89757.github.io/search/</loc>
   </url><url>
